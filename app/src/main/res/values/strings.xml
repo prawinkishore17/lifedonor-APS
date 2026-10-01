@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Life Donor</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="blood_group">Blood Group (e.g., A+)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="i_am_a">I am a...</string>
+    <string name="donor">Donor</string>
+    <string name="recipient">Recipient</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="map">Map</string>
+    <string name="requests">Requests</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="post_request">Post a Blood Request</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="required_blood_group">Required Blood Group</string>
+    <string name="hospital_name_address">Hospital Name &amp; Address</string>
+    <string name="contact_person_number">Contact Person Number</string>
+    <string name="submit_request">Submit Request</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985527373329",
+    "project_id": "life-donor-aps",
+    "storage_bucket": "life-donor-aps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985527373329:android:2ed29c279c4247beeaabb0",
+        "android_client_info": {
+          "package_name": "com.aps.lifedonoraps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGVN22u52jqJ3sm_PKeNd8ac-Tvqi3EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
